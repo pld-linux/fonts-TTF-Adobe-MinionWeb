@@ -1,6 +1,6 @@
 %define		_name	MinionWeb
 Summary:	Adobe Minion Web - part of Adobe WebType
-Summary(pl):	Font Adobe Minion Web - czê¶æ Adobe WebType
+Summary(pl.UTF-8):   Font Adobe Minion Web - czÄ™Å›Ä‡ Adobe WebType
 Name:		fonts-TTF-Adobe-%{_name}
 Version:	1.0
 Release:	1
@@ -22,12 +22,12 @@ Slimbach. Minion is inspired by classical, old style typefaces of the
 late Renaissance, a period of elegant, beautiful, and highly readable
 type designs. Minion Web has been optimized for onscreen use.
 
-%description -l pl
-Minion to rodzina rodzina krojów pisma Adobe Originals zaprojektowana
-przez Roberta Slimbacha. Minion zosta³ zainspirowany klasycznymi
-krojami pisma w starym stylu z pó¼nego renesansu - okresu eleganckich,
-piêknych i bardzo czytelnych wzorów czcionek. Minion Web zosta³
-zoptymalizowany do u¿ywania na ekranie.
+%description -l pl.UTF-8
+Minion to rodzina rodzina krojÃ³w pisma Adobe Originals zaprojektowana
+przez Roberta Slimbacha. Minion zostaÅ‚ zainspirowany klasycznymi
+krojami pisma w starym stylu z pÃ³Åºnego renesansu - okresu eleganckich,
+piÄ™knych i bardzo czytelnych wzorÃ³w czcionek. Minion Web zostaÅ‚
+zoptymalizowany do uÅ¼ywania na ekranie.
 
 %prep
 %setup -q -T -c
