@@ -1,6 +1,6 @@
 %define		_name	MinionWeb
 Summary:	Adobe Minion Web - part of Adobe WebType
-Summary(pl.UTF-8):   Font Adobe Minion Web - część Adobe WebType
+Summary(pl.UTF-8):	Font Adobe Minion Web - część Adobe WebType
 Name:		fonts-TTF-Adobe-%{_name}
 Version:	1.0
 Release:	1
